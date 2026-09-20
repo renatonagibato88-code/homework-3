@@ -24,9 +24,9 @@
 
 ### Блок-схема
 
-![Блок-схема](block_scheme.png)
+![Блок-схема](схема(Lab3).drawio.png)
 
-[Ссылка на блок-схему, созданную в draw.io](ВСТАВИТЬ_ССЫЛКУ_НА_DRAW.IO)
+[Ссылка на блок-схему, созданную в draw.io](https://drive.google.com/file/d/10wpxS08_9BK-WKQdQcCYZMP-hFZ-TQFR/view?usp=drive_link)
 
 ## 2. Реализация программы
 
